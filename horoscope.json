@@ -3,148 +3,148 @@
     "source": "https://en.wikipedia.org/wiki/Astrological_sign",
     "western_zodiac": {
         "Aries": {
-            "sign": "Aries",
+            "sign": "ARIES",
             "trait": "LOWKEY PSYCHO",
             "longitude_start": "0",
             "longitude_end": "30",
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Aries.svg",
             "unicode_symbol": "♈",
-            "gloss": "The Ram",
-            "element": "Fire",
-            "ruling_body_classic": "Mars",
-            "ruling_body_modern": "Mars"
+            "gloss": "THE RAM",
+            "element": "FIRE",
+            "ruling_body_classic": "MARS",
+            "ruling_body_modern": "MARS"
         },
         "Taurus": {
-            "sign": "Taurus",
+            "sign": "TAURUS",
             "trait": "STAGNANT KNOW-IT-ALL",
             "longitude_start": "30",
             "longitude_end": "60",
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Taurus.svg",
             "unicode_symbol": "♉",
-            "gloss": "The Bull",
-            "element": "Earth",
-            "ruling_body_classic": "Venus",
-            "ruling_body_modern": "Earth"
+            "gloss": "THE BULL",
+            "element": "EARTH",
+            "ruling_body_classic": "VENUS",
+            "ruling_body_modern": "EARTH"
         },
         "Gemini": {
-            "sign": "Gemini",
+            "sign": "GEMINI",
             "trait": "PEOPLE PLEASING",
             "longitude_start": "60",
             "longitude_end": "90",
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Gemini.svg",
             "unicode_symbol": "♊",
-            "gloss": "The Twins",
-            "element": "Air",
-            "ruling_body_classic": "Mercury",
-            "ruling_body_modern": "Mercury"
+            "gloss": "THE TWINS",
+            "element": "AIR",
+            "ruling_body_classic": "MERCURY",
+            "ruling_body_modern": "MERCURY"
         },
         "Cancer": {
-            "sign": "Cancer",
+            "sign": "CANCER",
             "trait": "CRYBABY TENDENCIES",
             "longitude_start": "90",
             "longitude_end": "120",
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Cancer.svg",
             "unicode_symbol": "♋",
-            "gloss": "The Crab",
-            "element": "Water",
-            "ruling_body_classic": "Moon",
-            "ruling_body_modern": "Moon"
+            "gloss": "THE CRAB",
+            "element": "WATER",
+            "ruling_body_classic": "MOON",
+            "ruling_body_modern": "MOON"
         },
         "Leo": {
-            "sign": "Leo",
+            "sign": "LEO",
             "trait": "FULL OF SELF == HOT GIRL VIBES",
             "longitude_start": "120",
             "longitude_end": "150",
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Leo.svg",
             "unicode_symbol": "♌",
-            "gloss": "The Lion",
-            "element": "Fire",
-            "ruling_body_classic": "Sun",
-            "ruling_body_modern": "Sun"
+            "gloss": "THE LION",
+            "element": "FIRE",
+            "ruling_body_classic": "SUN",
+            "ruling_body_modern": "SUN"
         },
         "Virgo": {
-            "sign": "Virgo",
+            "sign": "VIRGO",
             "trait": "ANNOYING PERFECTIONIST",
             "longitude_start": "150",
             "longitude_end": "180",
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Virgo.svg",
             "unicode_symbol": "♍",
-            "gloss": "The Maiden",
-            "element": "Earth",
-            "ruling_body_classic": "Mercury",
-            "ruling_body_modern": "Ceres"
+            "gloss": "THE MAIDEN",
+            "element": "EARTH",
+            "ruling_body_classic": "MERCURY",
+            "ruling_body_modern": "CERES"
         },
         "Libra": {
-            "sign": "Libra",
+            "sign": "LIBRA",
             "trait": "LOVINGLY INDECISIVE",
             "longitude_start": "180",
             "longitude_end": "210",
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Libra.svg",
             "unicode_symbol": "♎",
-            "gloss": "The Scales",
-            "element": "Air",
-            "ruling_body_classic": "Venus",
-            "ruling_body_modern": "Venus"
+            "gloss": "THE SCALES",
+            "element": "AIR",
+            "ruling_body_classic": "VENUS",
+            "ruling_body_modern": "VENUS"
         },
         "Scorpio": {
-            "sign": "Scorpio",
+            "sign": "SCORPIO",
             "trait": "JEALOUS NYMPHO",
             "longitude_start": "210",
             "longitude_end": "240",
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Scorpio.svg",
             "unicode_symbol": "♏",
-            "gloss": "The Scorpion",
-            "element": "Water",
-            "ruling_body_classic": "Mars",
-            "ruling_body_modern": "Pluto"
+            "gloss": "THE SCORPION",
+            "element": "WATER",
+            "ruling_body_classic": "MARS",
+            "ruling_body_modern": "PLUTO"
         },
         "Sagittarius": {
-            "sign": "Sagittarius",
+            "sign": "SAGITTARIUS",
             "trait": "SARCASTIC A-HOLE",
             "longitude_start": "240",
             "longitude_end": "270",
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Sagittarius.svg",
             "unicode_symbol": "♐",
-            "gloss": "The Archer",
-            "element": "Fire",
-            "ruling_body_classic": "Jupiter",
-            "ruling_body_modern": "Jupiter"
+            "gloss": "THE ARCHER",
+            "element": "FIRE",
+            "ruling_body_classic": "JUPITER",
+            "ruling_body_modern": "JUPITER"
         },
         "Capricorn": {
-            "sign": "Capricorn",
+            "sign": "CAPRICORN",
             "trait": "PRETENTIOUS WORKOHOLIC",
             "longitude_start": "270",
             "longitude_end": "300",
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Capricorn.svg",
             "unicode_symbol": "♑",
-            "gloss": "The Mountain Sea-goat",
-            "element": "Earth",
-            "ruling_body_classic": "Saturn",
-            "ruling_body_modern": "Saturn"
+            "gloss": "THE MOUNTAIN SEA-GOAT",
+            "element": "EARTH",
+            "ruling_body_classic": "SATURN",
+            "ruling_body_modern": "SATURN"
         },
         "Aquarius": {
-            "sign": "Aquarius",
+            "sign": "AQUARIUS",
             "trait": "UNEMOTIONAL ALIEN",
             "longitude_start": "300",
             "longitude_end": "330",
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Aquarius.svg",
             "unicode_symbol": "♒",
-            "gloss": "The Water-bearer",
-            "element": "Air",
-            "ruling_body_classic": "Saturn",
-            "ruling_body_modern": "Uranus"
+            "gloss": "THE WATER-BEARER",
+            "element": "AIR",
+            "ruling_body_classic": "SATURN",
+            "ruling_body_modern": "URANUS"
         },
         "Pisces": {
-            "sign": "Pisces",
+            "sign": "PISCES",
             "trait": "CONCERNED ABOUT EVERYTHING",
             "longitude_start": "330",
             "longitude_end": "360",
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Pisces.svg",
             "unicode_symbol": "♓",
-            "gloss": "The Fish",
-            "element": "Water",
-            "ruling_body_classic": "Jupiter",
-            "ruling_body_modern": "Neptune"
+            "gloss": "THE FISH",
+            "element": "WATER",
+            "ruling_body_classic": "JUPITER",
+            "ruling_body_modern": "NEPTUNE"
         }
     },
     "eastern_zodiac": {
@@ -280,7 +280,7 @@
             ],
             "unicode_symbol": "亥"
         }
-        
+
     }
-    
+
 }
