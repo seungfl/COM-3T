@@ -276,7 +276,7 @@ function draw() {
     image(zodiacMask,587.5,200);
     textFont(archivoEB);
     textSize(45);
-    text(printName,765.5,373);
+    text(printName,765.5,395.2);
     //fill(105, 253, 255);
     //textSize(21);
     //text(printMonth + " " + printDay ,765.5,400);
