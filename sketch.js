@@ -40,7 +40,18 @@ function preload(){
 function setup() {
   createCanvas(1016, 910);
   console.log(horoscope);
-  video1 = createCapture(VIDEO);
+
+  var constraints = {
+    audio: false,
+    video: {
+      facingMode: {
+        exact: "user"
+      }
+    }
+  };
+
+  video1 = createCapture(constraints);
+  //imageMode(CENTER);
   video1.size(464,140);
   video1.hide();
 
