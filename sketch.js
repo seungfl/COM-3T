@@ -53,7 +53,7 @@ function setup() {
 
   //video1 = createCapture(VIDEO);
   video1 = createCapture(constraints);
-  video1.size(displayWidth,displayHeight);
+  video1.size(512,288);
   video1.hide();
 
   textAlign(CENTER);
@@ -122,15 +122,15 @@ function draw() {
   background(105, 253, 255);
 
   push();
-  // video1.filter(GRAY);
   imageMode(CENTER);
   tint(0, 115, 255);
   image(video1, 255, 400);
   pop();
 
   imageMode(CORNER);
-
   image(videoMask,0,110);
+  fill(105, 253, 255);
+  noStroke();
   rect(0, 0, 1016, 110);
 
   image(buttonCamera,460,22);
@@ -147,7 +147,7 @@ function draw() {
 
   //CAPRICORN
   if(printZodiac==1) {
-    image(imageCapricorn,630,210);
+    image(imageCapricorn,587.5,210);
     textFont(archivoMI);
     textSize(18);
     text(horoscope.western_zodiac.Capricorn.ruling_body_classic,765.5,618);
@@ -157,7 +157,7 @@ function draw() {
   }
   //AQUARIUS
   if(printZodiac==2) {
-    image(imageAquarius,630,210);
+    image(imageAquarius,587.5,210);
     textFont(archivoMI);
     textSize(18);
     text(horoscope.western_zodiac.Aquarius.ruling_body_modern,765.5,618);
@@ -167,7 +167,7 @@ function draw() {
   }
   //PISCES
   if(printZodiac==3) {
-    image(imagePisces,630,210);
+    image(imagePisces,587.5,210);
     textFont(archivoMI);
     textSize(18);
     text(horoscope.western_zodiac.Pisces.ruling_body_modern,765.5,618);
@@ -177,7 +177,7 @@ function draw() {
   }
   //ARIES
   if(printZodiac==4) {
-    image(imageAries,630,210);
+    image(imageAries,587.5,210);
     textFont(archivoMI);
     textSize(18);
     text(horoscope.western_zodiac.Aries.ruling_body_modern,765.5,618);
@@ -187,7 +187,7 @@ function draw() {
   }
   //TAURUS
   if(printZodiac==5) {
-    image(imageTaurus,630,210);
+    image(imageTaurus,587.5,210);
     textFont(archivoMI);
     textSize(18);
     text(horoscope.western_zodiac.Taurus.ruling_body_modern,765.5,618);
@@ -197,7 +197,7 @@ function draw() {
   }
   //GEMINI
   if(printZodiac==6) {
-    image(imageGemini,630,210);
+    image(imageGemini,587.5,210);
     textFont(archivoMI);
     textSize(18);
     text(horoscope.western_zodiac.Gemini.ruling_body_modern,765.5,618);
@@ -207,7 +207,7 @@ function draw() {
   }
   //CANCER
   if(printZodiac==7) {
-    image(imageCancer,630,210);
+    image(imageCancer,587.5,210);
     textFont(archivoMI);
     textSize(18);
     text(horoscope.western_zodiac.Cancer.ruling_body_modern,765.5,618);
@@ -217,7 +217,7 @@ function draw() {
   }
   //LEO
   if(printZodiac==8) {
-    image(imageLeo,630,210);
+    image(imageLeo,587.5,210);
     textFont(archivoMI);
     textSize(18);
     text(horoscope.western_zodiac.Leo.ruling_body_modern,765.5,618);
@@ -227,7 +227,7 @@ function draw() {
   }
   //VIRGO
   if(printZodiac==9) {
-    image(imageVirgo,630,210);
+    image(imageVirgo,587.5,210);
     textFont(archivoMI);
     textSize(18);
     text(horoscope.western_zodiac.Virgo.ruling_body_modern,765.5,618);
@@ -237,7 +237,7 @@ function draw() {
   }
   //LIBRA
   if(printZodiac==10) {
-    image(imageLibra,630,210);
+    image(imageLibra,587.5,210);
     textFont(archivoMI);
     textSize(18);
     text(horoscope.western_zodiac.Libra.ruling_body_modern,765.5,618);
@@ -247,7 +247,7 @@ function draw() {
   }
   //SCORPIO
   if(printZodiac==11) {
-    image(imageScorpio,630,210);
+    image(imageScorpio,587.5,210);
     textFont(archivoMI);
     textSize(18);
     text(horoscope.western_zodiac.Scorpio.ruling_body_modern,765.5,618);
@@ -257,7 +257,7 @@ function draw() {
   }
   //SAGITTARIUS
   if(printZodiac==12) {
-    image(imageSagittarius,630,210);
+    image(imageSagittarius,587.5,210);
     textFont(archivoMI);
     textSize(18);
     text(horoscope.western_zodiac.Sagittarius.ruling_body_modern,765.5,618);
@@ -273,13 +273,13 @@ function draw() {
     text("TRAITS", 765.5, 652);
     text("ELEMENTS", 765.5, 702);
     text("SIGN", 765.5, 752);
-    image(zodiacMask,588,218);
+    image(zodiacMask,587.5,200);
     textFont(archivoEB);
     textSize(45);
     text(printName,765.5,373);
-    fill(105, 253, 255);
-    textSize(21);
-    text(printMonth + " " + printDay ,765.5,400);
+    //fill(105, 253, 255);
+    //textSize(21);
+    //text(printMonth + " " + printDay ,765.5,400);
   }
 }
 
