@@ -131,6 +131,7 @@ function draw() {
   imageMode(CORNER);
 
   image(videoMask,0,110);
+  rect(0, 0, 1016, 110);
 
   image(buttonCamera,460,22);
   image(submitButton,300,23);
