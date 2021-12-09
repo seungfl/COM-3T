@@ -41,7 +41,6 @@ function setup() {
   createCanvas(1016, 910);
   console.log(horoscope);
   video1 = createCapture(VIDEO);
-  //imageMode(CENTER);
   video1.size(464,140);
   video1.hide();
 
@@ -108,7 +107,7 @@ function setup() {
 }
 
 function draw() {
-  background(163, 250, 101);
+  background(105, 253, 255);
 
   push();
   // video1.filter(GRAY);
@@ -270,7 +269,7 @@ function draw() {
 function mousePressed(){
   if (mouseY >= 42 && mouseY <= 77 && mouseX >= 470 && mouseX<= 520){
     let saveCard = get( 0, 110, 1016, 800);
-    saveCard.save("MyHoroscopes.png");
+    saveCard.save("COM-3T_Membership.png");
     print("picture saved");
 }
   if (mouseY >= 40 && mouseY <=80 && mouseX >= 300 && mouseX<= 445){
