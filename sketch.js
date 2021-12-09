@@ -41,6 +41,7 @@ function setup() {
   createCanvas(1016, 910);
   console.log(horoscope);
 
+
   var constraints = {
     audio: false,
     video: {
@@ -50,9 +51,9 @@ function setup() {
     }
   };
 
+  //video1 = createCapture(VIDEO);
   video1 = createCapture(constraints);
-  //imageMode(CENTER);
-  video1.size(464,140);
+  video1.size(512,288);
   video1.hide();
 
   textAlign(CENTER);
@@ -122,8 +123,12 @@ function draw() {
 
   push();
   // video1.filter(GRAY);
-  image(video1, 36,220);
+  imageMode(CENTER);
+  tint(0, 115, 255);
+  image(video1, 255, 400);
   pop();
+
+  imageMode(CORNER);
 
   image(videoMask,0,110);
 
