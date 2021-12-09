@@ -4,7 +4,7 @@
     "western_zodiac": {
         "Aries": {
             "sign": "ARIES",
-            "trait": "LOWKEY PSYCHO",
+            "trait": "PSYCHOTIC ALIEN",
             "longitude_start": "0",
             "longitude_end": "30",
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Aries.svg",
@@ -16,7 +16,7 @@
         },
         "Taurus": {
             "sign": "TAURUS",
-            "trait": "STAGNANT KNOW-IT-ALL",
+            "trait": "KNOW-IT-ALL ASTRONAUT",
             "longitude_start": "30",
             "longitude_end": "60",
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Taurus.svg",
@@ -28,7 +28,7 @@
         },
         "Gemini": {
             "sign": "GEMINI",
-            "trait": "PEOPLE PLEASING",
+            "trait": "PEOPLE PLEASING ALIEN",
             "longitude_start": "60",
             "longitude_end": "90",
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Gemini.svg",
@@ -40,7 +40,7 @@
         },
         "Cancer": {
             "sign": "CANCER",
-            "trait": "CRYBABY TENDENCIES",
+            "trait": "CRYBABY ASTRONAUT",
             "longitude_start": "90",
             "longitude_end": "120",
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Cancer.svg",
@@ -52,7 +52,7 @@
         },
         "Leo": {
             "sign": "LEO",
-            "trait": "FULL OF SELF == HOT GIRL VIBES",
+            "trait": "EGOCENTRIC HUMAN",
             "longitude_start": "120",
             "longitude_end": "150",
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Leo.svg",
@@ -76,7 +76,7 @@
         },
         "Libra": {
             "sign": "LIBRA",
-            "trait": "LOVINGLY INDECISIVE",
+            "trait": "INDECISIVE ASTRONAUT",
             "longitude_start": "180",
             "longitude_end": "210",
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Libra.svg",
@@ -88,7 +88,7 @@
         },
         "Scorpio": {
             "sign": "SCORPIO",
-            "trait": "JEALOUS NYMPHO",
+            "trait": "JEALOUS HUMAN",
             "longitude_start": "210",
             "longitude_end": "240",
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Scorpio.svg",
@@ -100,7 +100,7 @@
         },
         "Sagittarius": {
             "sign": "SAGITTARIUS",
-            "trait": "SARCASTIC A-HOLE",
+            "trait": "SARCASTIC ALIEN",
             "longitude_start": "240",
             "longitude_end": "270",
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Sagittarius.svg",
@@ -136,7 +136,7 @@
         },
         "Pisces": {
             "sign": "PISCES",
-            "trait": "CONCERNED ABOUT EVERYTHING",
+            "trait": "TOO MUCH CONCERNED ASTRONAUT",
             "longitude_start": "330",
             "longitude_end": "360",
             "svg_symbol": "https://en.wikipedia.org/wiki/File:Pisces.svg",
