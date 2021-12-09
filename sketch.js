@@ -53,7 +53,7 @@ function setup() {
 
   //video1 = createCapture(VIDEO);
   video1 = createCapture(constraints);
-  video1.size(512,288);
+  //video1.size(512,288);
   video1.hide();
 
   textAlign(CENTER);
